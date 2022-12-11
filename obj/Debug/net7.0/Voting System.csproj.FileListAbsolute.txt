@@ -1,0 +1,15 @@
+E:\C#\Voting System\bin\Debug\net7.0\Voting System.exe
+E:\C#\Voting System\bin\Debug\net7.0\Voting System.deps.json
+E:\C#\Voting System\bin\Debug\net7.0\Voting System.runtimeconfig.json
+E:\C#\Voting System\bin\Debug\net7.0\Voting System.dll
+E:\C#\Voting System\bin\Debug\net7.0\Voting System.pdb
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.csproj.AssemblyReference.cache
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.AssemblyInfoInputs.cache
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.AssemblyInfo.cs
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.csproj.CoreCompileInputs.cache
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.dll
+E:\C#\Voting System\obj\Debug\net7.0\refint\Voting System.dll
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.pdb
+E:\C#\Voting System\obj\Debug\net7.0\Voting System.genruntimeconfig.cache
+E:\C#\Voting System\obj\Debug\net7.0\ref\Voting System.dll
